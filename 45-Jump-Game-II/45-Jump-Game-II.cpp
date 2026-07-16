@@ -13,7 +13,7 @@ public:
                 currEnd = farthest;
             }
         }
-
+  
         return jumps;
     }
 };
